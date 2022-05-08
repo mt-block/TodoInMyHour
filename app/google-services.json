@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "760526391758",
+    "firebase_url": "https://todoinmyhour-default-rtdb.firebaseio.com",
+    "project_id": "todoinmyhour",
+    "storage_bucket": "todoinmyhour.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760526391758:android:b16ab6fa454b311c43039f",
+        "android_client_info": {
+          "package_name": "com.example.todoinmyhour"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760526391758-asq5h303oa0tn54sm3odtbjmnggbia8k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPVQ9nL4rXnsipScykw2p4i1Jz0owq4hA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "760526391758-asq5h303oa0tn54sm3odtbjmnggbia8k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
